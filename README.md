@@ -1,1 +1,7 @@
-TinDog Starting Files
+# TinDog
+
+Tinder for dogs.
+
+Project made it wiht HTML, CSS and Bootstrap. It only has frontend it is not functional.
+
+
